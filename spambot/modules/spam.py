@@ -160,4 +160,4 @@ async def gladiators(event):
         await event.client.send_message(event.chat, xD)
         await asyncio.sleep(2)
     except Exception as xy:
-      await event.reply("Oops!! Something went wrong, forward this message to @Gladiators_Support\n\n" + str(xy))
+      await event.reply("Oops!! Something went wrong, \n\n" + str(xy))
