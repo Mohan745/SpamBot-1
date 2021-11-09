@@ -10,9 +10,9 @@
   [![Stars](https://img.shields.io/github/stars/Gladiators-Projects/Spambot?style=social)](https://github.com/Gladiators-Projects/SpamBot/stargazers)
   [![Forks](https://img.shields.io/github/forks/Gladiators-Projects/Spambot?style=social)](https://github.com/Gladiators-Projects/SpamBot/fork)
 
-### Dᴇᴘʟᴏʏ Tᴏ Hᴇʀᴏᴋᴜ
+### Dᴇᴘʟᴏʏ Tᴏ
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gladiators-Projects/spambot)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### 🛠️ Lᴀɴɢᴜᴀɢᴇs Aɴᴅ Tᴏᴏʟs
 
